@@ -1,10 +1,12 @@
 appname               = postgres-18
 version               = 1.0.0
-display_name          = display-name
-desc                  = app-description
+display_name          = PostgreSQL 18
+desc                  = Advanced open-source relational database
 platform              = x86
 source                = thirdparty
-maintainer            = your-name
-distributor           = your-name
+maintainer            = PostgreSQL Global Development Group
+maintainer_url        = https://www.postgresql.org
+distributor           = evan755
+distributor_url       = https://github.com/fnnas-apps/postgres-18
 desktop_uidir         = ui
 desktop_applaunchname = postgres-18.Application
